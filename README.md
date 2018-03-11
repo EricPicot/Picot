@@ -19,3 +19,5 @@ Lorsque j'ai voulu mettre dans les conditions réelles ma fonction de valeur, le
 screen = p.getscreenRGB()
 
 était la raison de ce problème. N'ayant pas besoin de cette ligne puisque je ne travaille que sur les états et pas sur l'image, serait-il possible de la commenter le temps de l'évaluation de mon travail ?
+
+FlappyAgent.py nécssite d'être éxecuté afin de charger la matrice Q_function nécessaire à la fonction FlappyPolicy
