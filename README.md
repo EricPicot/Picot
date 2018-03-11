@@ -8,7 +8,7 @@ Il est constitué de
 
 - run.py qui servira à calculer la performance de mon code
 - Q_function.pickle qui un matrice numpy. C'est la fonction de valeur utilisée dans FlappyPolicy.py et évaluée ici. Elle a été obtenue lors de la phase d'apprentissage décrite dans apprentissage.py
-- FlappyPolicy.py où est chargé la fonction de valeur qui contient la fonction FlappyPolicy appelée dans run.py
+- FlappyAgent.py où est chargé la fonction de valeur qui contient la fonction FlappyPolicy appelée dans run.py
 - apprentissage.py qui décrit la phase d'apprentissage
 
 
